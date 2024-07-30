@@ -5,8 +5,8 @@ For detailed description of the dataset and baseline results using common machin
 1. Machine learning-based simulation for proton exchange membrane electrolyzer cell (https://www.sciencedirect.com/science/article/pii/S2352484722018595).
 
 For more datasets please refer to the Supplementary Materials section in the following papers:
-> Optimization of Proton Exchange Membrane Electrolyzer Cell Design Using Machine Learning. (https://www.mdpi.com/1996-1073/15/18/6657).
-> Optimal design and flow-field pattern selection of proton exchange membrane electrolyzers using artificial intelligence. (https://www.sciencedirect.com/science/article/abs/pii/S0360544222030213).
+2. Optimization of Proton Exchange Membrane Electrolyzer Cell Design Using Machine Learning. (https://www.mdpi.com/1996-1073/15/18/6657).
+3. Optimal design and flow-field pattern selection of proton exchange membrane electrolyzers using artificial intelligence. (https://www.sciencedirect.com/science/article/abs/pii/S0360544222030213).
 
 If you benefit from this dataset, please cite the previous publications as follows:
 
