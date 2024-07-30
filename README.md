@@ -7,8 +7,6 @@ In this study, 1203 experimental designs were collected from previous researches
 
 ![image](https://github.com/user-attachments/assets/9dc1cfdf-bb20-4db1-b941-f1ad061c12b1)
 
-
- lists the classes and ranges of the different parameter values obtained from combining the two datasets.
 For detailed description of the dataset and baseline results using common machine learning algorithms such as: Artificial Neural Networks, K-Nearest Neigbor, Support Vector Machines, Decision Trees, please refer to the following paper:
 1. Machine learning-based simulation for proton exchange membrane electrolyzer cell (https://www.sciencedirect.com/science/article/pii/S2352484722018595).
 
